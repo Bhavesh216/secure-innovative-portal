@@ -23,8 +23,8 @@ const Navbar = () => {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 max-w-screen-xl items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
-          <span className="text-xl font-bold text-primary">IST</span>
-          <span className="hidden text-xl font-medium sm:inline-block">Innovative Secure Technologies</span>
+          <span className="text-xl font-bold text-primary">ISTPL</span>
+          <span className="hidden text-xl font-medium sm:inline-block">Innovative Secure Technologies Private Limited</span>
         </Link>
 
         {/* Desktop Navigation */}

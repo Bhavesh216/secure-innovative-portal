@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container max-w-screen-xl py-12">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-3 lg:grid-cols-4">
           <div className="space-y-4">
-            <h3 className="text-xl font-bold">Innovative Secure Technologies</h3>
+            <h3 className="text-xl font-bold">Innovative Secure Technologies Private Limited</h3>
             <p className="text-sm">
               Leading provider of Microsoft software solutions for businesses of all sizes.
             </p>

@@ -48,7 +48,7 @@ const Index = () => {
             <div className="grid grid-cols-1 gap-12 md:grid-cols-2 items-center">
               <div className="space-y-6">
                 <h1 className="text-4xl font-bold leading-tight md:text-5xl lg:text-6xl">
-                  Innovative Secure Technologies
+                  Innovative Secure Technologies Private Limited
                 </h1>
                 <p className="text-lg md:text-xl opacity-90">
                   Your trusted partner for Microsoft software solutions and licensing.
