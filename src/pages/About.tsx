@@ -24,7 +24,7 @@ const About = () => {
     {
       icon: <Users className="h-8 w-8 text-microsoft-blue" />,
       title: 'Client-Focused',
-      description: 'Putting our clients' needs at the center of everything we do.'
+      description: "Putting our clients' needs at the center of everything we do."
     },
     {
       icon: <BarChart className="h-8 w-8 text-microsoft-blue" />,
